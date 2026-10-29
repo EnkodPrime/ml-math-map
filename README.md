@@ -44,4 +44,4 @@ from touching the file. Any push to `main` republishes it.
 
 ---
 
-Author: **EnkodPrime**
+Author: **Stefan Nikolov**
